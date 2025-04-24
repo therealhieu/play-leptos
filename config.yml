@@ -1,0 +1,23 @@
+headers:
+  - Home
+  - About
+  - Contact
+pages:
+  - title: Home
+    path: /
+    components:
+      - type: text
+        text: "Hello, world!"
+      - type: text
+        text: "Hello, world!"
+      - type: text
+        text: "Hello, world!"
+      - type: text
+        text: "Hello, world!"
+      - type: text
+        text: "Hello, world!"
+  - title: About
+    path: /about
+    components:
+      - type: text
+        text: "About"
