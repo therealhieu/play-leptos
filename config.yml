@@ -1,7 +1,3 @@
-headers:
-  - Home
-  - About
-  - Contact
 pages:
   - title: Home
     path: /
